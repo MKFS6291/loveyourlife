@@ -1,0 +1,16 @@
+div. static {
+  position: absolute;
+border: 3px solid #73AD21;}
+p {
+  font-family: Lucida Console, Monospace;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+  font-family: 'Arial', sans-serif;
+}
